@@ -1,11 +1,8 @@
-## Hi there 👋
 
-<!--
-**piyushjangir99/piyushjangir99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Single&size=25&pause=1000&color=3953F7&center=true&width=435&lines=Hii%2CI+am+piyushh)](https://git.io/typing-svg)
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
